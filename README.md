@@ -1,7 +1,9 @@
 # A Kernel switch for the Commodore 64
-# SernelSwitchSST
+# KernelSwitchSST
 
-This is a kernel switcher for the commodore 64, i have de c model, i its only tryed in that one.
+Its for the SST39F0x0 Series of flash chips.
+
+This is a kernel switcher for the commodore 64, i have the c model, i its only tryed in that one.
 You need to switch the "old kernel" out with this PCB
 
 Project is made in KiCad 8.0
