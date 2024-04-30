@@ -57,8 +57,8 @@ From:
 <a href="https://www.aliexpress.com/item/1005002702991282.html" class="image fit">High Quality 24mm X 7.62mm 0-9 Bit BCD Code 8421 Binary Output Dial Push Wheel Switch, Black</a>
 
 ## Picture generatet by KiCad 8.0
-![KiCad render pic.](KernelSwitch1.png)
+![KiCad render pic.](KernelSwitchSST1.png)
 
-![KiCad render pic.](KernelSwitch2.png)
+![KiCad render pic.](KernelSwitchSST2.png)
 
-![KiCad render pic.](KernelSwitch3.png)
+![KiCad render pic.](KernelSwitchSST3.png)
