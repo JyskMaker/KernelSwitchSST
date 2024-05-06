@@ -21,7 +21,7 @@ With A
 | SST39SF040    | 64            | 512K x 8Bit    |
 
 ## Diagram
-<a href="KernelSwitchSch.pdf" class="image fit">Diagram of Kernel switch.</a>
+![screenshot](DiagramKernelSwitchSST.png)
 
 ## Switch kernel
 A13, A14, A15, A16, A17 and A18 is all pulldown to low by a 1K res. So to select another address (Kernel), you only need to pull it high.
@@ -30,7 +30,10 @@ A13, A14, A15, A16, A17 and A18 is all pulldown to low by a 1K res. So to select
 If you do nothing to the J3 "Kernel select" pin's, then the kernel will start at address $0000 In the EPRom. And the C64 will boot from that.
 
 #### If you connect a 4 Pole switch to the J3 this way, then you can switch between 4 different kernel's
-![screenshot](J3_Kernel_select.png)
+
+More will come later
+
+![screenshot](KernelSelector.png)
 
 ### Program a new kernel
 The EPRom is a SST39SF0x0, and can hold 4 Easy access kernels. 8 Kilo byte. pr kernel.
