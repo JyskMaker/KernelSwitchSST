@@ -36,7 +36,7 @@ More will come later
 ![screenshot](KernelSelector.png)
 
 ### Program a new kernel
-The EPRom is a SST39SF0x0, and can hold 4 Easy access kernels. 8 Kilo byte. pr kernel.
+The EPRom is a SST39SF0x0, and can hold 16 to 64 Easy access kernels. 8 Kilo byte. pr kernel.
 
 When you program the SST39SF0x0 you most place them in different plases in the EPRom.
 
